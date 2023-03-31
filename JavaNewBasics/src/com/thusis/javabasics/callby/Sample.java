@@ -1,4 +1,5 @@
 package com.thusis.javabasics.callby;
+
 //https://wikidocs.net/265 점프투자바 call by value
 
 class Updater {

@@ -2,6 +2,7 @@ package com.thusis.javabasics.callby;
 
 public class SwapTest {
 //https://devlog-wjdrbs96.tistory.com/44
+	
 	int value;
 	
 	public SwapTest(int value) {
