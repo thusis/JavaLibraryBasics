@@ -1,4 +1,4 @@
-package com.thusis.javabasics.Thread;
+package com.thusis.javabasics.thread;
 
 public class ThreadWithClass extends Thread{
 	
