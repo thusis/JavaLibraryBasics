@@ -1,4 +1,4 @@
-package com.thusis.javabasics.Override;
+package com.thusis.javabasics.override;
 
 public class People {
 	

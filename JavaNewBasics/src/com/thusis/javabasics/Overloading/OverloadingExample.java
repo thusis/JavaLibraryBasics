@@ -1,4 +1,4 @@
-package com.thusis.javabasics.Overloading;
+package com.thusis.javabasics.overloading;
 
 public class OverloadingExample {
 	
